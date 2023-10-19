@@ -1,7 +1,7 @@
 # My Personal Resume Website
-# Your Name - Personal Resume Website
 
-![Website Preview](url_to_website_screenshot_or_image.png)
+![image](https://github.com/iranziprince01/my-resume/assets/116654088/780a3c9b-cd58-45e8-9a72-f8e4e8e7c0a5)
+
 
 ## Overview
 
